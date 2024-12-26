@@ -1,15 +1,15 @@
-const setColour=(color)=>{
-    document.body.style.backgroundColor=color;    
+const setColour = (color) => {
+    document.body.style.backgroundColor = color;
 }
-const aqua=()=>{
+const aqua = () => {
     setColour("aqua");
 }
-const green=()=>{
+const green = () => {
     setColour("green");
 }
-const gray=()=>{
+const gray = () => {
     setColour("gray");
 }
-const blue=()=>{
+const blue = () => {
     setColour("blue");
 }
